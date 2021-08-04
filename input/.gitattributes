@@ -1,3 +1,2 @@
-GSE104276_all_pfc_2394_UMI_* filter=lfs diff=lfs merge=lfs -text
 GSE104276_all_pfc_2394_UMI_TPM_NOERCC.xls filter=lfs diff=lfs merge=lfs -text
 GSE104276_all_pfc_2394_UMI_count_NOERCC.xls filter=lfs diff=lfs merge=lfs -text
